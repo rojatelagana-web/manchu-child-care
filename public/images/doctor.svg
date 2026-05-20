@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <defs>
+    <radialGradient id="dg" cx="0.5" cy="0.4" r="0.7">
+      <stop offset="0" stop-color="#F4F9FF"/>
+      <stop offset="1" stop-color="#cfe1ec"/>
+    </radialGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#dg)"/>
+  <!-- Doctor coat -->
+  <path d="M 100 280 Q 200 250 300 280 L 320 400 L 80 400 Z" fill="#ffffff"/>
+  <!-- Neck/shirt -->
+  <path d="M 175 250 L 225 250 L 220 290 Q 200 295 180 290 Z" fill="#1a6b8a"/>
+  <!-- Face -->
+  <circle cx="200" cy="180" r="65" fill="#f3c8a0"/>
+  <!-- Hair -->
+  <path d="M 140 160 Q 145 110 200 100 Q 255 110 260 160 Q 250 130 200 125 Q 150 130 140 160 Z" fill="#2b1f17"/>
+  <!-- Eyes -->
+  <circle cx="180" cy="180" r="4" fill="#0D2233"/>
+  <circle cx="220" cy="180" r="4" fill="#0D2233"/>
+  <!-- Smile -->
+  <path d="M 180 210 Q 200 225 220 210" stroke="#0D2233" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Stethoscope -->
+  <path d="M 165 280 Q 150 320 175 340 Q 200 350 225 340 Q 250 320 235 280" stroke="#0D2233" stroke-width="4" fill="none"/>
+  <circle cx="200" cy="355" r="12" fill="#FF8C42" stroke="#0D2233" stroke-width="3"/>
+</svg>

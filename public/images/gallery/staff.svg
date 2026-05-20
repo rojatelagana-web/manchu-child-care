@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice">
+  <rect width="800" height="600" fill="#e6f0f5"/>
+  <rect y="430" width="800" height="170" fill="#b6c5cc"/>
+  <!-- 3 silhouettes -->
+  <g fill="#ffffff" stroke="#1a6b8a" stroke-width="3">
+    <g transform="translate(220,250)">
+      <circle cx="0" cy="0" r="50"/>
+      <path d="M -65 70 Q 0 50 65 70 L 70 220 L -70 220 Z"/>
+    </g>
+    <g transform="translate(400,230)">
+      <circle cx="0" cy="0" r="55"/>
+      <path d="M -75 80 Q 0 55 75 80 L 80 240 L -80 240 Z"/>
+    </g>
+    <g transform="translate(580,250)">
+      <circle cx="0" cy="0" r="50"/>
+      <path d="M -65 70 Q 0 50 65 70 L 70 220 L -70 220 Z"/>
+    </g>
+  </g>
+  <!-- Stethoscopes -->
+  <g stroke="#FF8C42" stroke-width="4" fill="none">
+    <path d="M 200 320 Q 195 360 220 380 Q 240 380 240 360"/>
+    <path d="M 380 330 Q 375 380 410 405 Q 440 380 420 350"/>
+    <path d="M 560 320 Q 555 360 580 380 Q 600 380 600 360"/>
+  </g>
+  <text x="400" y="100" text-anchor="middle" fill="#0D2233" font-family="Georgia,serif" font-weight="bold" font-size="42">OUR STAFF</text>
+  <text x="400" y="140" text-anchor="middle" fill="#1a6b8a" font-family="Georgia,serif" font-style="italic" font-size="22">Friendly, attentive &amp; experienced</text>
+</svg>

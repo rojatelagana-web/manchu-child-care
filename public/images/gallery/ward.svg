@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" preserveAspectRatio="xMidYMid slice">
+  <rect width="600" height="600" fill="#eaf3f7"/>
+  <rect y="380" width="600" height="220" fill="#bcc8cc"/>
+  <!-- Two beds -->
+  <g>
+    <rect x="80" y="280" width="180" height="120" rx="10" fill="#ffffff" stroke="#1a6b8a" stroke-width="3"/>
+    <rect x="80" y="280" width="180" height="20" fill="#1a6b8a"/>
+    <rect x="340" y="280" width="180" height="120" rx="10" fill="#ffffff" stroke="#1a6b8a" stroke-width="3"/>
+    <rect x="340" y="280" width="180" height="20" fill="#1a6b8a"/>
+  </g>
+  <text x="300" y="160" text-anchor="middle" fill="#0D2233" font-family="Georgia,serif" font-weight="bold" font-size="38">PEDIATRIC WARD</text>
+  <text x="300" y="200" text-anchor="middle" fill="#1a6b8a" font-family="Georgia,serif" font-style="italic" font-size="20">Comfort, safety &amp; warmth</text>
+  <g transform="translate(280,80)" fill="#FF8C42">
+    <path d="M0 14 C 0 6, 6 0, 14 0 C 19 0, 24 4, 26 9 C 28 4, 33 0, 38 0 C 46 0, 52 6, 52 14 C 52 25, 26 42, 26 42 C 26 42, 0 25, 0 14 Z"/>
+  </g>
+</svg>

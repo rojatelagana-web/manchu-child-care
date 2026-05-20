@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#bfe1ee"/>
+      <stop offset="1" stop-color="#eaf3f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="800" fill="url(#sky)"/>
+  <rect y="600" width="600" height="200" fill="#a8b5bb"/>
+  <!-- Building -->
+  <rect x="80" y="300" width="440" height="320" fill="#ffffff" stroke="#1a6b8a" stroke-width="4"/>
+  <rect x="80" y="300" width="440" height="60" fill="#1a6b8a"/>
+  <text x="300" y="345" text-anchor="middle" fill="#ffffff" font-family="Georgia,serif" font-weight="bold" font-size="26">MANCHU CHILD CARE</text>
+  <!-- Windows -->
+  <g fill="#cfe9f3" stroke="#1a6b8a" stroke-width="2">
+    <rect x="120" y="400" width="80" height="80"/>
+    <rect x="260" y="400" width="80" height="80"/>
+    <rect x="400" y="400" width="80" height="80"/>
+    <rect x="120" y="510" width="80" height="80"/>
+    <rect x="400" y="510" width="80" height="80"/>
+  </g>
+  <!-- Door -->
+  <rect x="270" y="510" width="60" height="110" fill="#FF8C42" stroke="#1a6b8a" stroke-width="2"/>
+  <!-- Cross sign -->
+  <g transform="translate(300,260)" fill="#FF8C42">
+    <rect x="-10" y="-32" width="20" height="64" rx="3"/>
+    <rect x="-32" y="-10" width="64" height="20" rx="3"/>
+  </g>
+  <text x="300" y="740" text-anchor="middle" fill="#0D2233" font-family="Georgia,serif" font-style="italic" font-size="22">Hospital Exterior · Sompeta</text>
+</svg>

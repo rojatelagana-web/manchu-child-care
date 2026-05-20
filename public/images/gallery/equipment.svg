@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" preserveAspectRatio="xMidYMid slice">
+  <rect width="600" height="600" fill="#f0f7fa"/>
+  <rect y="380" width="600" height="220" fill="#cdd9de"/>
+  <!-- Stethoscope and equipment shapes -->
+  <g transform="translate(300,300)">
+    <circle r="80" fill="none" stroke="#1a6b8a" stroke-width="8"/>
+    <path d="M -60 -10 Q -120 -40 -110 -110 Q 0 -180 110 -110 Q 120 -40 60 -10" fill="none" stroke="#1a6b8a" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="-110" cy="-110" r="14" fill="#FF8C42"/>
+    <circle cx="110" cy="-110" r="14" fill="#FF8C42"/>
+    <circle r="40" fill="#FF8C42"/>
+    <circle r="30" fill="#ffffff"/>
+    <circle r="6" fill="#1a6b8a"/>
+  </g>
+  <text x="300" y="540" text-anchor="middle" fill="#0D2233" font-family="Georgia,serif" font-weight="bold" font-size="34">MEDICAL EQUIPMENT</text>
+</svg>

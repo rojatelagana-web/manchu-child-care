@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8f3f7"/>
+      <stop offset="1" stop-color="#c1d3da"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <rect y="380" width="800" height="220" fill="#b9c5cb"/>
+  <!-- Exam table -->
+  <rect x="180" y="320" width="440" height="80" rx="14" fill="#ffffff" stroke="#1a6b8a" stroke-width="3"/>
+  <rect x="180" y="395" width="440" height="20" fill="#1a6b8a"/>
+  <!-- Sign -->
+  <rect x="240" y="100" width="320" height="100" rx="12" fill="#ffffff" stroke="#1a6b8a" stroke-width="3"/>
+  <text x="400" y="145" text-anchor="middle" fill="#0D2233" font-family="Georgia,serif" font-weight="bold" font-size="36">CONSULTATION</text>
+  <text x="400" y="180" text-anchor="middle" fill="#1a6b8a" font-family="Georgia,serif" font-style="italic" font-size="20">Where every concern is heard</text>
+  <!-- Medical cross icon -->
+  <g transform="translate(680,140)" fill="#FF8C42">
+    <rect x="-8" y="-25" width="16" height="50" rx="3"/>
+    <rect x="-25" y="-8" width="50" height="16" rx="3"/>
+  </g>
+</svg>

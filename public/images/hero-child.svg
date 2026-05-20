@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="hg1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a6b8a"/>
+      <stop offset="1" stop-color="#0d4f6b"/>
+    </linearGradient>
+    <radialGradient id="hg2" cx="0.5" cy="0.35" r="0.7">
+      <stop offset="0" stop-color="#FFE0C2"/>
+      <stop offset="1" stop-color="#FF8C42" stop-opacity="0.85"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="1000" fill="url(#hg1)"/>
+  <circle cx="400" cy="380" r="320" fill="url(#hg2)"/>
+  <!-- Doctor silhouette holding child -->
+  <g fill="#ffffff" opacity="0.95">
+    <circle cx="340" cy="340" r="62"/>
+    <path d="M 240 430 Q 340 395 440 430 L 460 740 Q 340 760 220 740 Z"/>
+    <circle cx="490" cy="430" r="45"/>
+    <path d="M 430 500 Q 490 480 550 500 L 555 700 Q 490 710 425 700 Z"/>
+    <ellipse cx="340" cy="360" rx="80" ry="15" opacity="0.3" fill="#1a6b8a"/>
+  </g>
+  <g transform="translate(620,180)" fill="#FF8C42">
+    <path d="M0 24 C 0 11, 11 0, 24 0 C 33 0, 42 7, 44 16 C 46 7, 55 0, 64 0 C 77 0, 88 11, 88 24 C 88 42, 44 72, 44 72 C 44 72, 0 42, 0 24 Z"/>
+  </g>
+  <g transform="translate(120,150)" fill="#ffffff" opacity="0.4">
+    <circle cx="0" cy="0" r="8"/>
+    <circle cx="30" cy="15" r="5"/>
+    <circle cx="55" cy="-5" r="6"/>
+  </g>
+  <text x="400" y="900" text-anchor="middle" fill="#ffffff" opacity="0.55" font-family="Georgia, serif" font-style="italic" font-size="22">Caring for Little Lives</text>
+</svg>
